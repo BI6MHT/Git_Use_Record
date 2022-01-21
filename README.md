@@ -3,7 +3,11 @@ This is an exercise repository
 In readme-edits branch, I make some changes about me.
 Yeah, I'm a good boy.
 
-## 如何删除github上的commit历史记录？
+## 一、新手第一次在GitHub上提交代码完整教程
+
+原文链接：https://www.cnblogs.com/zyfenblog/p/11170493.html
+
+## 二、如何删除github上的commit历史记录？
 
 原文链接：https://blog.csdn.net/yolohohohoho/article/details/90607229
 
