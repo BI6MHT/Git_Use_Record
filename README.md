@@ -3,15 +3,14 @@ This is an exercise repository
 In readme-edits branch, I make some changes about me.
 Yeah, I'm a good boy.
 
-
-# 如何删除github上的commit历史记录？
+## 如何删除github上的commit历史记录？
 
 原文链接：https://blog.csdn.net/yolohohohoho/article/details/90607229
 
-## 前言
+### 前言
 之前在做测试的时候提交了很多无用的记录，现在准备将这些无用的垃圾commit记录删除。
 
-## 解决方法
+### 解决方法
 
 具体步骤如下。
 
