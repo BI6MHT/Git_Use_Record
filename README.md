@@ -7,7 +7,10 @@ Yeah, I'm a good boy.
 
 原文链接：https://www.cnblogs.com/zyfenblog/p/11170493.html
 
-## 二、如何删除github上的commit历史记录？
+## 二、查看和修改用户名等
+原文链接：https://blog.csdn.net/linton1/article/details/80711085
+
+## 三、如何删除github上的commit历史记录？
 
 原文链接：https://blog.csdn.net/yolohohohoho/article/details/90607229
 
