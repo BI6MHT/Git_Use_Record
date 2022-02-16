@@ -10,7 +10,14 @@ Yeah, I'm a good boy.
 ## 二、查看和修改用户名等
 原文链接：https://blog.csdn.net/linton1/article/details/80711085
 
-## 三、如何删除github上的commit历史记录？
+## 三、Push时没反应，故修改推送地址如下
+
+```
+git remote add origin git@github.com:BI6MHT/knowledge-garden.git
+
+```
+
+## 四、如何删除github上的commit历史记录？
 
 原文链接：https://blog.csdn.net/yolohohohoho/article/details/90607229
 
