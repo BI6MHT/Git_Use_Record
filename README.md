@@ -1,8 +1,4 @@
-<script type="text/javascript"
-src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>
 
-$2^2$
 # hellp-world
 This is an exercise repository
 In readme-edits branch, I make some changes about me.
