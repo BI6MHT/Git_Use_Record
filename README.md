@@ -17,6 +17,8 @@ git remote add origin git@github.com:BI6MHT/knowledge-garden.git
 
 ```
 
+参考链接：https://blog.csdn.net/zoe757081803/article/details/118553118
+
 ## 四、如何删除github上的commit历史记录？
 
 原文链接：https://blog.csdn.net/yolohohohoho/article/details/90607229
