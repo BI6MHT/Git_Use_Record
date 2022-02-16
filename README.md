@@ -48,4 +48,5 @@ git branch -m master;
 #Finally, force update your repository
 git push -f origin master;
 ```
-
+五、git新建仓库，本地分支由master变为main
+原文链接：https://blog.csdn.net/qq_43598179/article/details/110076005
