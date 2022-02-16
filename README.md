@@ -33,6 +33,8 @@ git remote add origin git@github.com:BI6MHT/knowledge-garden.git
 ```
 #Clone your git repo
 git clone https://github.com/lestatzhang/lestatzhang.github.io.git;
+
+$2^2$
 #Entre your local repo
 cd lestatzhang.github.io;
 #Checkout
