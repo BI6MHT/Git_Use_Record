@@ -1,3 +1,8 @@
+<script type="text/javascript"
+src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+$2^2$
 # hellp-world
 This is an exercise repository
 In readme-edits branch, I make some changes about me.
@@ -56,3 +61,4 @@ git push -f origin master;
 六、拉取仓库
 
 原文链接：https://blog.csdn.net/carfge/article/details/79691360#:~:text=%E4%BA%8C%E3%80%81%20%E6%8B%89%E5%8F%96%20%E8%BF%9C%E7%A8%8B%20%E5%88%86%E6%94%AF%20%E5%B9%B6%E5%88%9B%E5%BB%BA%E6%9C%AC%E5%9C%B0%20%E5%88%86%E6%94%AF%20%E6%96%B9%E6%B3%95%E4%B8%80%20,%E5%90%8D%E7%A7%B0%29%20origin%2Fdev%20%28%E8%BF%9C%E7%A8%8B%20%E5%88%86%E6%94%AF%20%E5%90%8D%E7%A7%B0%29%20git%20pull%20o
+
