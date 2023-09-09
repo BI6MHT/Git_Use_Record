@@ -60,6 +60,7 @@ git push -f origin master;
 
 ## 创建空仓库后，git提示的一些指令
 
+```
 …or create a new repository on the command line
 
 echo "# hops_singularity" >> README.md
@@ -70,6 +71,7 @@ git branch -M main
 
 # 重命名分支，如果newbranch名字分支已经存在，则需要使用-M强制重命名，否则，使用-m进行重命名。
 
+
 git remote add origin git@github.com:BI6MHT/hops_singularity.git
 git push -u origin main
 
@@ -77,3 +79,4 @@ git push -u origin main
 git remote add origin git@github.com:BI6MHT/hops_singularity.git
 git branch -M main
 git push -u origin main
+```
